@@ -400,7 +400,8 @@ PRODUCT_PACKAGES += \
 # Preload AOT for the following apps
 PRODUCT_DEXPREOPT_SPEED_APPS += \
     SystemUI \
-    NexusLauncherRelease
+    NexusLauncherRelease \
+    XiaomiParts
 
 # Powerhint
 PRODUCT_COPY_FILES += \
