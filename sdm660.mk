@@ -270,6 +270,7 @@ PRODUCT_PACKAGES += \
     init.qti.fm.sh \
     init.target.rc \
     init.performance.sdm660.rc \
+    init.xiaomi_parts.rc \
     ueventd.qcom.rc
 
 # Ion
